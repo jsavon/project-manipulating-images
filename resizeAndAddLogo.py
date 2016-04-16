@@ -1,5 +1,5 @@
 import os
-from PIL import image
+from PIL import Image
 
 SQUARE_FIT_SIZE = 300
 LOGO_FILENAME = 'logo.png'
